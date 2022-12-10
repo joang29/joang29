@@ -1,6 +1,6 @@
-<h1 align="center">Hola soy joang</h1>
+<h1 align="center">Hi I'm joang</h1>
 
-<h2 align="center">Lenguajes que utilizo</h2>
+<h2 align="center">I program in these languages</h2>
 
 <p align="center">
   
