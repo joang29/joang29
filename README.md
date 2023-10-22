@@ -1,3 +1,3 @@
 ```
-Why are you reading this?
+C++ and Java programmer & linux enthusiast
 ```
